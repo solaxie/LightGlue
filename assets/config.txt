@@ -1,1 +1,1 @@
-threshold_percentage = 0.04
+threshold_percentage = 0.05
