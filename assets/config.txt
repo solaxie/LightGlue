@@ -1,7 +1,7 @@
 # 測試圖像0
-image0_file_name=
+image0_file_name=178-20240319-1100.png
 # 測試圖像1
-image1_file_name=
+image1_file_name=178-20240530-1100.png
 
 # 畫面像素的位移閥值百分比
 threshold_percentage=0.05
